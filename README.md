@@ -1,4 +1,4 @@
 Untuk Menjalankan Programnya :
 
--Buka App/Controller/Mahasiswa \n
--Backup Databasenya dengan cara "restore".
+Buka App/Controller/Mahasiswa, Lalu
+Backup Databasenya dengan cara "restore".
